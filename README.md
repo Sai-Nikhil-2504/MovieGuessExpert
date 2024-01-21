@@ -1,2 +1,7 @@
-# MovieGuessExpert
-This is a Python project that implements an expert system for guessing films. Users select a subgenre and respond to yes-or-no questions, and the system endeavors to guess the film title within a maximum of 7 questions. This project is designed to enhance skills in the application of branching control structures for cinematic classification
+Project Overview :
+This personal project, developed by Sai Nikhil Reddy, is a Python-based expert system named MovieGuessExpert. The project aims to provide an interactive experience in which users can guess film titles within specific subgenres. It uses yes-or-no questions, branching control structures, and a maximum of seven questions to reliably identify movies.
+
+Key Features:
++ Interactive Experience: Users can select a subgenre and answer yes or no questions.
++ Efficient Expert System: The system is designed to estimate the film title using a maximum of seven questions.
++ User-friendly: Clear instructions walk users through the guessing process.
