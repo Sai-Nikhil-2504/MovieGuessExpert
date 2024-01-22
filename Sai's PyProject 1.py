@@ -1,26 +1,26 @@
 # Sai Nikhil Reddy Anumula
 
-# Movies and their distinguishing elements:
-# 13 GHOSTS : A 1960's Supernatural Film. It is memorable for its illusion-O process
-# A CHRISTMAS CAROL : A 1938 film
-# AMERICAN PSYCHO : A 2000 film. A film inspired by a novel
-# BELOW : A 2002 film. Took place on a sunken ship
-# CARNIVAL OF SOUL : A 1962 film. It was about a woman who survived car accident
-# CITY STREETS : A 1931 film. It is about two lovers trapped by gangsland connection
-# G-MEN : A 1935 film. It took place in midwest
-# GODFATHER : A 1990 film. It is popular as gangster saga
-# GOODFELLAS : A 1990 film. It is based on the life of an actual ex-mobster
-# HEAVEN CAN WAIT : A 1978 film. It includes football
-# HOLD THAT GHOST : A 1941 film. It includes comedy
-# INTERNAL AFFAIRS : A 1990 film. It is about two undercover moles
-# MILLER'S CROSSING : A 1990 film. It involve irish mob leader-gangster
-# SUSPECT ZERO : A 2004 film. It is featuring ex-FBI who is obsessed in killing serial killers
-# THE BIGHOUSE : A 1930 film. It is one of the earliest prison film
-# THE GHOST SHIP : A 2002 film. It took place in a sunken ship
-# THE LEGEND OF HELL HOUSE : A 1973 film. It is about four researcher spent in a house inhabited by spirituals
-# THE PLEDGE : A 2001 film. It is about a retired cop
-# THE RING : A 2002 film. It was a remake of Hideo Nakata's Japanese film
-# TOPPER : It is a 1937 film. It was about a couple who were involved in a car accident
+# Movie Highlights with Distinguishing Features:
+# 13 GHOSTS (1960): A supernatural film renowned for its illusion-O process.
+# A CHRISTMAS CAROL (1938): Classic film from the 1930s.
+# AMERICAN PSYCHO (2000): A film inspired by a novel.
+# BELOW (2002): Set on a sunken ship.
+# CARNIVAL OF SOULS (1962): Revolves around a woman surviving a car accident.
+# CITY STREETS (1931): A tale of lovers ensnared by gangsland connections.
+# G-MEN (1935): Unfolds in the Midwest.
+# GODFATHER (1990): Renowned gangster saga.
+# GOODFELLAS (1990): Based on the life of an actual ex-mobster.
+# HEAVEN CAN WAIT (1978): Incorporates football.
+# HOLD THAT GHOST (1941): A comedic venture.
+# INTERNAL AFFAIRS (1990): Explores the world of two undercover moles.
+# MILLER'S CROSSING (1990): Involves an Irish mob leader-gangster.
+# SUSPECT ZERO (2004): Features an ex-FBI agent obsessed with killing serial killers.
+# THE BIGHOUSE (1930): One of the earliest prison films.
+# THE GHOST SHIP (2002): Unfolds in the eerie setting of a sunken ship.
+# THE LEGEND OF HELL HOUSE (1973): Researchers spend time in a haunted house.
+# THE PLEDGE (2001): Focuses on a retired cop.
+# THE RING (2002): A remake of Hideo Nakata's Japanese film.
+# TOPPER (1937): Explores the aftermath of a couple's car accident.
 
 print("Hey! Do you need Instructions?", end="")
 if input() in ['yes','YES']:
